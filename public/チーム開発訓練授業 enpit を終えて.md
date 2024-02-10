@@ -3,7 +3,7 @@ title: enPiT アジャイル開発訓練プログラム を終えて
 tags:
   - チーム開発
 private: false
-updated_at: '2024-01-24T20:41:11+09:00'
+updated_at: '2024-02-11T02:54:24+09:00'
 id: 7b3cc6b68ce248b83085
 organization_url_name: null
 slide: false
