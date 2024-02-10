@@ -10,3 +10,8 @@
 
 - [Qiita の記事を GitHub リポジトリで管理する方法](https://qiita.com/Qiita/items/32c79014509987541130)
 - [github.com/increments/qiita-cli](https://github.com/increments/qiita-cli)
+
+# env
+
+node.js 20.11.0
+npm 10.2.4
