@@ -1,13 +1,13 @@
 ---
 title: Quineを改造してTuringMachineを作った
 tags:
-  - 'Python'
-  - 'オートマトン'
-  - 'チューリングマシン'
-  - 'quine'
+  - Python
+  - quine
+  - オートマトン
+  - チューリングマシン
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-06-15T15:19:12+09:00'
+id: 6f7d753c9da279e60a4e
 organization_url_name: null
 slide: false
 ignorePublish: false
