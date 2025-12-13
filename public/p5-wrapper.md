@@ -1,12 +1,12 @@
 ---
-title: p5.jsでWebサイト(React, Next)にお手軽メディアアート
+title: 'p5.jsでWebサイト(React, Next)にお手軽メディアアート'
 tags:
-  - 'p5.js'
-  - 'React'
-  - 'Next.js'
+  - React
+  - p5.js
+  - Next.js
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-13T21:47:06+09:00'
+id: 2e232ea08ef6cfe3f144
 organization_url_name: null
 slide: false
 ignorePublish: false
